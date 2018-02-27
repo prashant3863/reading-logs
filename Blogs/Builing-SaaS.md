@@ -41,9 +41,40 @@ The source: https://stripe.com/atlas/guides/business-of-saas
 
     Revenue = # customers X Avg. life time Revenue per customer
 
-    # of customer you get == Aquisiton X Conversion Rate
+    # of customer you get == (Aquisiton X Conversion Rate)/Churn
 
     Lifetime Value(LTV)
 
     Life time of a Customer = 1/Churn
+
+### Implications of SaaS
+- Improvements are multiplic atively effective as ~ (aquisition x coversion)
+- Improving aquisition, conversion & churn often require major
+  cross-functional effort
+- Saas business eventually asymtotes, like log graph after initial
+  exponential rise.
+- The business which looses the ability improve on these three factors
+  will stop growing and will die, if they cannot cover the fixed
+cost (eg. Salaries) even if they do everything right
+
+- SaaS are capital intensive
+  - Companies optimizing  for growth will almost always spend more money
+    than they collect in the begining
+  - Typical SaaS spend less than 5-10% of the marginal revenue per
+    customer on delivering the underlying service, which means insane
+  - Only factor of Unit Economics remains is the Customer Aquisiton
+    Cost(CAC)
+  - Fast growing one's usually ignore this expenses that doesn't scale
+    directly with # of customers ie. engineering cost
+  - Takes a while to grow, the usual time frame for a bootstrapped on is
+    18 months.
+
+- Funded SaaS are designed to trade cash for growth, while perfecting
+  the model.
+
+- *Rule*
+
+    3 3 2 2 2
+    Triple the annual revenue for the fist two years and double it for
+the next three years
 
