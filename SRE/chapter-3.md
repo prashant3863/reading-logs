@@ -1,5 +1,5 @@
-###Chapter 3
-###Embracing Risk
+### Chapter 3
+### Embracing Risk
 
 - Past a certain point increasing reliability is actually worse for a
   service.
@@ -14,7 +14,7 @@
 - Maximize overall user experience with feature, service and
   performance.
 
-####Managing Risk
+#### Managing Risk
 
 - Cost do not increase linearly with reliability, rather exponetially.
 - Two dimensions of cost:
@@ -23,7 +23,7 @@
     developing features
 - Service should be reliable enoughm but not **more** than required
 
-####Measuring Service Risk
+#### Measuring Service Risk
 
 - Time based availabilty = uptime / (uptime + downtime)
 
@@ -37,7 +37,7 @@
 - Not all requests are equally important, but this gives a reasonable
   approximation of uptime
 
-####Risk Tolerance of Services
+#### Risk Tolerance of Services
 - Decides by the business need of the service
 
 - Infra based services are more hard due to lack of a proper business
